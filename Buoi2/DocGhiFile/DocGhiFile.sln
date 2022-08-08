@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocGhiFile1", "DocGhiFile1\DocGhiFile1.csproj", "{9D567301-867D-419F-96EF-8F12A7408962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocGhiFile2_TryCatch", "DocGhiFile2_TryCatch\DocGhiFile2_TryCatch.csproj", "{EF99A104-5F29-46AC-83E6-A3A616C8B070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D567301-867D-419F-96EF-8F12A7408962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D567301-867D-419F-96EF-8F12A7408962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D567301-867D-419F-96EF-8F12A7408962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D567301-867D-419F-96EF-8F12A7408962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF99A104-5F29-46AC-83E6-A3A616C8B070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF99A104-5F29-46AC-83E6-A3A616C8B070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF99A104-5F29-46AC-83E6-A3A616C8B070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF99A104-5F29-46AC-83E6-A3A616C8B070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC138FF-B26F-4ABA-ABBB-4DFD55856FEB}
+	EndGlobalSection
+EndGlobal

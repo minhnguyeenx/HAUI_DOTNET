@@ -1,0 +1,15 @@
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\bin\Debug\net6.0\DocGhiFile2_TryCatch.exe
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\bin\Debug\net6.0\DocGhiFile2_TryCatch.deps.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\bin\Debug\net6.0\DocGhiFile2_TryCatch.runtimeconfig.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\bin\Debug\net6.0\DocGhiFile2_TryCatch.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\bin\Debug\net6.0\DocGhiFile2_TryCatch.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\DocGhiFile2_TryCatch.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\DocGhiFile2_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\DocGhiFile2_TryCatch.AssemblyInfoInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\DocGhiFile2_TryCatch.AssemblyInfo.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\DocGhiFile2_TryCatch.csproj.CoreCompileInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\DocGhiFile2_TryCatch.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\refint\DocGhiFile2_TryCatch.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\DocGhiFile2_TryCatch.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\DocGhiFile2_TryCatch.genruntimeconfig.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile2_TryCatch\obj\Debug\net6.0\ref\DocGhiFile2_TryCatch.dll

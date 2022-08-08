@@ -1,0 +1,15 @@
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\bin\Release\net6.0\HeCoSo.exe
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\bin\Release\net6.0\HeCoSo.deps.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\bin\Release\net6.0\HeCoSo.runtimeconfig.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\bin\Release\net6.0\HeCoSo.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\bin\Release\net6.0\HeCoSo.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\HeCoSo.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\HeCoSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\HeCoSo.AssemblyInfoInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\HeCoSo.AssemblyInfo.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\HeCoSo.csproj.CoreCompileInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\HeCoSo.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\refint\HeCoSo.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\HeCoSo.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\HeCoSo.genruntimeconfig.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\HeCoSo\obj\Release\net6.0\ref\HeCoSo.dll

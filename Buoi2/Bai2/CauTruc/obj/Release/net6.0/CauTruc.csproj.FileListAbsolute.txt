@@ -1,0 +1,15 @@
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\bin\Release\net6.0\CauTruc.exe
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\bin\Release\net6.0\CauTruc.deps.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\bin\Release\net6.0\CauTruc.runtimeconfig.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\bin\Release\net6.0\CauTruc.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\bin\Release\net6.0\CauTruc.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\CauTruc.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\CauTruc.AssemblyInfoInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\CauTruc.AssemblyInfo.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\CauTruc.csproj.CoreCompileInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\CauTruc.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\refint\CauTruc.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\CauTruc.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\CauTruc.genruntimeconfig.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\CauTruc\obj\Release\net6.0\ref\CauTruc.dll

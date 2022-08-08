@@ -1,0 +1,5 @@
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\Fibonacci\obj\Release\net6.0\Fibonacci.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\Fibonacci\obj\Release\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\Fibonacci\obj\Release\net6.0\Fibonacci.AssemblyInfoInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\Fibonacci\obj\Release\net6.0\Fibonacci.AssemblyInfo.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\Fibonacci\obj\Release\net6.0\Fibonacci.csproj.CoreCompileInputs.cache

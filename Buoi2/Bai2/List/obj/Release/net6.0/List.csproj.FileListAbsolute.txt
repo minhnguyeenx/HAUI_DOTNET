@@ -1,0 +1,15 @@
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\bin\Release\net6.0\List.exe
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\bin\Release\net6.0\List.deps.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\bin\Release\net6.0\List.runtimeconfig.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\bin\Release\net6.0\List.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\bin\Release\net6.0\List.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\List.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\List.AssemblyInfoInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\List.AssemblyInfo.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\List.csproj.CoreCompileInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\List.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\refint\List.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\List.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\List.genruntimeconfig.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\List\obj\Release\net6.0\ref\List.dll

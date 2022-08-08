@@ -1,0 +1,15 @@
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\bin\Debug\net6.0\DocGhiFile1.exe
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\bin\Debug\net6.0\DocGhiFile1.deps.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\bin\Debug\net6.0\DocGhiFile1.runtimeconfig.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\bin\Debug\net6.0\DocGhiFile1.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\bin\Debug\net6.0\DocGhiFile1.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\DocGhiFile1.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\DocGhiFile1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\DocGhiFile1.AssemblyInfoInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\DocGhiFile1.AssemblyInfo.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\DocGhiFile1.csproj.CoreCompileInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\DocGhiFile1.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\refint\DocGhiFile1.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\DocGhiFile1.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\DocGhiFile1.genruntimeconfig.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\DocGhiFile\DocGhiFile1\obj\Debug\net6.0\ref\DocGhiFile1.dll

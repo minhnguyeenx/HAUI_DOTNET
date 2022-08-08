@@ -1,0 +1,15 @@
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\bin\Release\net6.0\TaoDocFile.exe
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\bin\Release\net6.0\TaoDocFile.deps.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\bin\Release\net6.0\TaoDocFile.runtimeconfig.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\bin\Release\net6.0\TaoDocFile.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\bin\Release\net6.0\TaoDocFile.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\TaoDocFile.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\TaoDocFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\TaoDocFile.AssemblyInfoInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\TaoDocFile.AssemblyInfo.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\TaoDocFile.csproj.CoreCompileInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\TaoDocFile.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\refint\TaoDocFile.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\TaoDocFile.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\TaoDocFile.genruntimeconfig.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi2\Bai2\TaoDocFile\obj\Release\net6.0\ref\TaoDocFile.dll
