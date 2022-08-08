@@ -1,0 +1,39 @@
+﻿<Window x:Class="Bai9_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai9_4"
+        mc:Ignorable="d"
+        Title="Tính tiền điện" Height="450" Width="600">
+    <Grid>
+        <Label Height =" 60px" Width="300" Margin="0,20,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="30" Background="White" Foreground="#FFFF0E0E">Bảng Tính Tiền Điện</Label>
+        <StackPanel Height="30px" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,80,0,0">
+            <Label>Họ tên khách hàng:</Label>
+            <ComboBox x:Name="hoten" Height="40px" Width="300px" Margin="130,-30,0,0">
+                <ComboBoxItem IsSelected="True" >Nguyễn Thanh Tâm</ComboBoxItem>
+                <ComboBoxItem>Nguyễn Thị A</ComboBoxItem>
+                <ComboBoxItem>Nguyễn Văn B</ComboBoxItem>
+                <ComboBoxItem>Nguyễn Thị C</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <Label Content="Chỉ số cũ&#xD;&#xA;" HorizontalAlignment="Left" Margin="20,125,0,0" VerticalAlignment="Top" Width="83" Height="25" RenderTransformOrigin="0.506,-0.038"/>
+        <TextBox x:Name="chiSo_cu" HorizontalAlignment="Left" Margin="152,125,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"  Height="26" TextChanged="chiSo_cu_TextChanged"/>
+        <Label Content="Số kw trong định mức" HorizontalAlignment="Left" Margin="284,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.816,0.156" Width="149"/>
+        <TextBox x:Name="soKw_tdm" HorizontalAlignment="Left" Margin="463,125,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"  Height="26" TextChanged="soKw_tdm_TextChanged"/>
+        <Label x:Name="chSo_moi" Content="Chỉ số mới&#xD;&#xA;" HorizontalAlignment="Left" Margin="20,155,0,0" VerticalAlignment="Top" Width="83" Height="25" RenderTransformOrigin="0.506,-0.038"/>
+        <TextBox x:Name="chiSo_moi" HorizontalAlignment="Left" Margin="152,156,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"  Height="26" TextChanged="TextBox_TextChanged"/>
+        <Label Content="Số kw vượt định mức" HorizontalAlignment="Left" Margin="284,156,0,0" VerticalAlignment="Top" Width="149"/>
+        <TextBox x:Name="soKw_vdm" HorizontalAlignment="Left" Height="24" Margin="463,157,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" TextChanged="soKw_vdm_TextChanged"/>
+        <Label Content="Số kw tiêu thụ&#xD;&#xA;" HorizontalAlignment="Left" Margin="20,189,0,0" VerticalAlignment="Top" Width="118" Height="28"/>
+        <TextBox x:Name="soKw_tt" HorizontalAlignment="Left" Margin="152,188,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" Height="29" TextChanged="TextBox_TextChanged_1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="284,202,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="78" Width="253"><Run Text="Định mức là 50kw"/><LineBreak/><Run Text="Trong định mức là 500đ/1kw"/><LineBreak/><Run Text="Vượt định mức là 1000đ/1kw"/></TextBlock>
+        <TextBox x:Name="tongTien" HorizontalAlignment="Left" Margin="20,273,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Height="25" TextChanged="tongTien_TextChanged"/>
+        <Label Content="Tổng tiền phải trả" HorizontalAlignment="Left" Height="24" Margin="32,244,0,0" VerticalAlignment="Top" Width="145"/>
+        <Button x:Name="Tinh" Content="Tính" HorizontalAlignment="Left" Height="24" Margin="21,321,0,0" VerticalAlignment="Top" Width="81" Click="Tinh_Click"/>
+        <Button x:Name="In" Content="In" HorizontalAlignment="Left" Height="24" Margin="108,321,0,0" VerticalAlignment="Top" Width="81" Click="In_Click"/>
+        <Button x:Name="Thoat" Content="Thoát" HorizontalAlignment="Left" Height="24" Margin="64,350,0,0" VerticalAlignment="Top" Width="81" RenderTransformOrigin="0.494,-0.29" Click="Thoat_Click"/>
+        <ListBox x:Name="listBox" Margin="265,256,44,0" Height="135" VerticalAlignment="Top" SelectionChanged="listBox_SelectionChanged"/>
+
+    </Grid>
+</Window>

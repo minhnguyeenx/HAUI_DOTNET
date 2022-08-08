@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DoanThiThuy_2020603329_proj61/1.0.0": {
+        "runtime": {
+          "DoanThiThuy_2020603329_proj61.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoanThiThuy_2020603329_proj61/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

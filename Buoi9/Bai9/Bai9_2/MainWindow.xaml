@@ -1,0 +1,27 @@
+﻿<Window x:Class="Bai9_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai9_2"
+        mc:Ignorable="d"
+        Title="Quản lý nhân viên" Height="650" Width="800" FontSize="20">
+    <Grid>
+        <Label Height ="40px" Width="100px" Margin="36,46,664,548">Họ tên</Label>
+        <TextBox x:Name="hoTen" Height="40px" Width="600px" Margin="136,46,64,548" TextChanged="hoTen_TextChanged"/>
+        <Label Height ="40px" Width="100px" Margin="30,111,670,483">Giới tính</Label>
+        <ComboBox x:Name="gioiTinh" Height="40px" Width="600px" Margin="136,111,64,483" SelectionChanged="gioiTinh_SelectionChanged">
+            <ComboBoxItem IsSelected="True">Nam</ComboBoxItem>
+            <ComboBoxItem>Nữ</ComboBoxItem>
+        </ComboBox>
+        <Label Height ="40px" Margin="30,174,658,420" RenderTransformOrigin="0.335,0.576">Phòng ban</Label>
+        <ComboBox x:Name="phongBan" Height="40px" Width="600px" Margin="136,174,64,420" SelectionChanged="phongBan_SelectionChanged">
+            <ComboBoxItem IsSelected="True">Phòng kỹ thuật</ComboBoxItem>
+            <ComboBoxItem>Phòng hành chính</ComboBoxItem>
+            <ComboBoxItem>Phòng kinh doanh</ComboBoxItem>
+        </ComboBox>
+        <Button x:Name="add" Height="50px" Width="120px" Margin="454,247,226,337" Click="add_Click">Thêm</Button>
+        <Button x:Name="thoat" Height="50px" Width="120px" Margin="616,247,64,337" Click="thoat_Click">Thoát</Button>
+        <ListBox x:Name="listBox1" Height="287" VerticalAlignment="Bottom" Margin="30,0,27,30" SelectionChanged="listBox1_SelectionChanged"></ListBox>
+    </Grid>
+</Window>

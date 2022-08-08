@@ -1,0 +1,16 @@
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\obj\Debug\net5.0\NguyenDangThai_2019604455_pro61.csproj.AssemblyReference.cache
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\obj\Debug\net5.0\NguyenDangThai_2019604455_pro61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\obj\Debug\net5.0\NguyenDangThai_2019604455_pro61.AssemblyInfoInputs.cache
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\obj\Debug\net5.0\NguyenDangThai_2019604455_pro61.AssemblyInfo.cs
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\obj\Debug\net5.0\NguyenDangThai_2019604455_pro61.csproj.CoreCompileInputs.cache
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\bin\Debug\net5.0\NguyenDangThai_2019604455_pro61.exe
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\bin\Debug\net5.0\NguyenDangThai_2019604455_pro61.deps.json
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\bin\Debug\net5.0\NguyenDangThai_2019604455_pro61.runtimeconfig.json
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\bin\Debug\net5.0\NguyenDangThai_2019604455_pro61.runtimeconfig.dev.json
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\bin\Debug\net5.0\NguyenDangThai_2019604455_pro61.dll
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\bin\Debug\net5.0\ref\NguyenDangThai_2019604455_pro61.dll
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\bin\Debug\net5.0\NguyenDangThai_2019604455_pro61.pdb
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\obj\Debug\net5.0\NguyenDangThai_2019604455_pro61.dll
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\obj\Debug\net5.0\ref\NguyenDangThai_2019604455_pro61.dll
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\obj\Debug\net5.0\NguyenDangThai_2019604455_pro61.pdb
+C:\Users\IT Supporter\source\repos\NguyenDangThai_2019604455\NguyenDangThai_2019604455_pro61\obj\Debug\net5.0\NguyenDangThai_2019604455_pro61.genruntimeconfig.cache

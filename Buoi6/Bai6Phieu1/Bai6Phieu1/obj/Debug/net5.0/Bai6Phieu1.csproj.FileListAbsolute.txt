@@ -1,0 +1,16 @@
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\obj\Debug\net5.0\Bai6Phieu1.csproj.AssemblyReference.cache
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\obj\Debug\net5.0\Bai6Phieu1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\obj\Debug\net5.0\Bai6Phieu1.AssemblyInfoInputs.cache
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\obj\Debug\net5.0\Bai6Phieu1.AssemblyInfo.cs
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\obj\Debug\net5.0\Bai6Phieu1.csproj.CoreCompileInputs.cache
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\bin\Debug\net5.0\Bai6Phieu1.exe
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\bin\Debug\net5.0\Bai6Phieu1.deps.json
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\bin\Debug\net5.0\Bai6Phieu1.runtimeconfig.json
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\bin\Debug\net5.0\Bai6Phieu1.runtimeconfig.dev.json
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\bin\Debug\net5.0\Bai6Phieu1.dll
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\bin\Debug\net5.0\ref\Bai6Phieu1.dll
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\bin\Debug\net5.0\Bai6Phieu1.pdb
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\obj\Debug\net5.0\Bai6Phieu1.dll
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\obj\Debug\net5.0\ref\Bai6Phieu1.dll
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\obj\Debug\net5.0\Bai6Phieu1.pdb
+C:\Users\IT Supporter\source\repos\Bai6Phieu1\Bai6Phieu1\obj\Debug\net5.0\Bai6Phieu1.genruntimeconfig.cache

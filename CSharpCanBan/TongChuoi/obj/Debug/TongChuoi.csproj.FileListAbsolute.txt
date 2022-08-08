@@ -1,0 +1,8 @@
+D:\HOCKY5\LAPTRINHDOTNET\CSharpCanBan\TongChuoi\bin\Debug\TongChuoi.exe.config
+D:\HOCKY5\LAPTRINHDOTNET\CSharpCanBan\TongChuoi\bin\Debug\TongChuoi.exe
+D:\HOCKY5\LAPTRINHDOTNET\CSharpCanBan\TongChuoi\bin\Debug\TongChuoi.pdb
+D:\HOCKY5\LAPTRINHDOTNET\CSharpCanBan\TongChuoi\obj\Debug\TongChuoi.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\CSharpCanBan\TongChuoi\obj\Debug\TongChuoi.csproj.SuggestedBindingRedirects.cache
+D:\HOCKY5\LAPTRINHDOTNET\CSharpCanBan\TongChuoi\obj\Debug\TongChuoi.csproj.CoreCompileInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\CSharpCanBan\TongChuoi\obj\Debug\TongChuoi.exe
+D:\HOCKY5\LAPTRINHDOTNET\CSharpCanBan\TongChuoi\obj\Debug\TongChuoi.pdb

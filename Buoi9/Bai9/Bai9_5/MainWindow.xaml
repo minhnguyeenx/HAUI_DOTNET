@@ -1,0 +1,50 @@
+﻿<Window x:Class="Bai9_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai9_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox Margin="10,10,0,0" Width="312" Name="ListBox1" HorizontalAlignment="Center" VerticalAlignment="Center" Height="342">
+            <CheckBox x:Name="checkBox1" Background="Beige" Checked="CheckBox_Checked">
+                <StackPanel Background="Beige" Width="270" Orientation="Horizontal">
+                    <Image Width="50" Height="50" Source="nuoccamtuoi.jpg"></Image>
+                    <TextBlock Margin="5" VerticalAlignment="Center" FontSize="18">Nước cam tươi</TextBlock>
+                </StackPanel>
+            </CheckBox>
+            <CheckBox x:Name="checkBox2" Background="Beige" Checked="checkBox2_Checked">
+                <StackPanel Width="270" Orientation="Horizontal">
+                    <Image Width="50" Height="50" Source="nuockiwiep.jpg"></Image>
+                    <TextBlock Margin="5" VerticalAlignment="Center" FontSize="18">Nước kiwi ép</TextBlock>
+                </StackPanel>
+            </CheckBox>
+            <CheckBox x:Name="checkBox3" Background="Beige" Checked="checkBox3_Checked">
+                <StackPanel Background="Beige" Width="270" Orientation="Horizontal">
+                    <Image Width="50" Height="50" Source="nuocxoaiep.jpg"></Image>
+                    <TextBlock Margin="5" VerticalAlignment="Center" FontSize="18">Nước xoài ép</TextBlock>
+                </StackPanel>
+            </CheckBox>
+            <CheckBox x:Name="checkBox4" Background="Beige" Checked="checkBox4_Checked">
+                <StackPanel Width="270" Orientation="Horizontal">
+                    <Image Width="50" Height="50" Source="suatuoitiettrung.jpg"></Image>
+                    <TextBlock Margin="5" VerticalAlignment="Center" FontSize="18">Sữa tươi tiệt trùng</TextBlock>
+                </StackPanel>
+            </CheckBox>
+            <CheckBox x:Name="checkBox5" Background="Beige" Checked="checkBox5_Checked">
+                <StackPanel Background="Beige" Width="270" Orientation="Horizontal">
+                    <Image Width="50" Height="50" Source="caphe.jpg"></Image>
+                    <TextBlock Margin="5" VerticalAlignment="Center" FontSize="18">Cà phê</TextBlock>
+                </StackPanel>
+            </CheckBox>
+            <Button x:Name="goiDoUong" Margin="110, 20" Background="Azure" Click="goiDoUong_Click" >Gọi đồ uống</Button>
+        </ListBox>
+        <StackPanel x:Name="message1"  Height="150" Width="250" Margin="500, 0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Background="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}" Visibility="Hidden">
+            <TextBlock Height="20px" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}"></TextBlock>
+            <Button x:Name="exit1" Width="19" HorizontalAlignment="Right" Background="Red" Margin="0, -20,0,0"  Height="20px" Click="exit1_Click">X</Button>
+            <TextBlock x:Name="messagetext" Height="70px" Margin="0, 20,0,0" HorizontalAlignment="Center" TextWrapping="Wrap"> </TextBlock>
+            <Button x:Name="exit2" Width="70px" HorizontalAlignment="Center" VerticalAlignment="Bottom" Click="exit2_Click">OK</Button>
+        </StackPanel>
+    </Grid>
+</Window>

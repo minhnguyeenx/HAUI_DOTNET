@@ -1,0 +1,16 @@
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\bin\Debug\net5.0\DoanThiThuy_2020603329_proj61.exe
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\bin\Debug\net5.0\DoanThiThuy_2020603329_proj61.deps.json
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\bin\Debug\net5.0\DoanThiThuy_2020603329_proj61.runtimeconfig.json
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\bin\Debug\net5.0\DoanThiThuy_2020603329_proj61.runtimeconfig.dev.json
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\bin\Debug\net5.0\DoanThiThuy_2020603329_proj61.dll
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\bin\Debug\net5.0\ref\DoanThiThuy_2020603329_proj61.dll
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\bin\Debug\net5.0\DoanThiThuy_2020603329_proj61.pdb
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\obj\Debug\net5.0\DoanThiThuy_2020603329_proj61.csproj.AssemblyReference.cache
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\obj\Debug\net5.0\DoanThiThuy_2020603329_proj61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\obj\Debug\net5.0\DoanThiThuy_2020603329_proj61.AssemblyInfoInputs.cache
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\obj\Debug\net5.0\DoanThiThuy_2020603329_proj61.AssemblyInfo.cs
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\obj\Debug\net5.0\DoanThiThuy_2020603329_proj61.csproj.CoreCompileInputs.cache
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\obj\Debug\net5.0\DoanThiThuy_2020603329_proj61.dll
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\obj\Debug\net5.0\ref\DoanThiThuy_2020603329_proj61.dll
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\obj\Debug\net5.0\DoanThiThuy_2020603329_proj61.pdb
+C:\Users\IT Supporter\source\repos\DoanThiThuy_2020603329_proj61\DoanThiThuy_2020603329_proj61\obj\Debug\net5.0\DoanThiThuy_2020603329_proj61.genruntimeconfig.cache

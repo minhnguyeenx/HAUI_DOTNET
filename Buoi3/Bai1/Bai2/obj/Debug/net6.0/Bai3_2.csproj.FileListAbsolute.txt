@@ -1,0 +1,15 @@
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\bin\Debug\net6.0\Bai3_2.exe
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\bin\Debug\net6.0\Bai3_2.deps.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\bin\Debug\net6.0\Bai3_2.runtimeconfig.json
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\bin\Debug\net6.0\Bai3_2.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\bin\Debug\net6.0\Bai3_2.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\Bai3_2.csproj.AssemblyReference.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\Bai3_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\Bai3_2.AssemblyInfoInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\Bai3_2.AssemblyInfo.cs
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\Bai3_2.csproj.CoreCompileInputs.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\Bai3_2.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\refint\Bai3_2.dll
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\Bai3_2.pdb
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\Bai3_2.genruntimeconfig.cache
+D:\HOCKY5\LAPTRINHDOTNET\Buoi3\Bai1\Bai2\obj\Debug\net6.0\ref\Bai3_2.dll

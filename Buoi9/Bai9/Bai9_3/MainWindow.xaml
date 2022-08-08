@@ -1,0 +1,35 @@
+﻿<Window x:Class="Bai9_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai9_3"
+        mc:Ignorable="d"
+        Title="Cập nhật thành viên" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="26,26,26,27">
+            <Label Height="30px" Width="60px" HorizontalAlignment="Left" Margin="19, 20, 0, 0">Họ tên</Label>
+            <TextBox x:Name="hoTen" Height="30px" Margin="84, -30, 0, 0" Width="250px" HorizontalAlignment="Left" VerticalAlignment="Top" TextChanged="TextBox_TextChanged"></TextBox>
+            <Label Height="30px" Width="60px" HorizontalAlignment="Left" Margin="19, 0, 0, 0" >Giới tính</Label>
+            <StackPanel Height="42" Width="328" HorizontalAlignment="Left" Margin="19, 0, 0, 0">
+                <RadioButton x:Name="checkNam" IsChecked="True">Nam</RadioButton>
+                <RadioButton x:Name="checkNu" Checked="RadioButton_Checked">Nữ</RadioButton>
+            </StackPanel>
+            <Label Height="30px" Width="152" HorizontalAlignment="Left" Margin="19, 0, 0, 0" >Tình trạng hôn nhân</Label>
+            <StackPanel Height="42" Width="328" HorizontalAlignment="Left" Margin="19, 0, 0, 0">
+                <RadioButton x:Name="checkChuakh" IsChecked="True" Checked="RadioButton_Checked_1">Chưa kết hôn</RadioButton>
+                <RadioButton x:Name="checkDakh">Đã kết hôn</RadioButton>
+            </StackPanel>
+            <Label Height="30px" Width="152" HorizontalAlignment="Left" Margin="19, 0, 0, 0">Sở thích</Label>
+            <StackPanel Margin="19, 0, 0, 0" Width="300" HorizontalAlignment="Left">
+                <CheckBox x:Name="bongDa" IsChecked="True">Bóng đá</CheckBox>
+                <CheckBox x:Name="boiLoi" IsChecked="True" Checked="CheckBox_Checked">Bơi lội</CheckBox>
+                <CheckBox x:Name="amNhac" IsChecked="True">Âm nhạc</CheckBox>
+                <CheckBox x:Name="leoNui" IsChecked="True">Leo núi</CheckBox>
+            </StackPanel>
+            <ListBox x:Name="listbox1" Height="271" Width="300px" HorizontalAlignment="Right" Margin="0,-260,19,0" SelectionChanged="ListBox_SelectionChanged"></ListBox>
+            <Button x:Name="thoat" Height ="30px" Width="60px" HorizontalAlignment="Right" Margin="0,30,20,0" Click="Button_Click_1">Thoát</Button>
+            <Button x:Name="them" Height="30px" Width="60px" HorizontalAlignment="Right" Margin="0,-30,100,0" Click="Button_Click">Thêm</Button>
+        </StackPanel>
+    </Grid>
+</Window>

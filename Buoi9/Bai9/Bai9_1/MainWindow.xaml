@@ -1,0 +1,35 @@
+﻿<Window x:Class="Bai9_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai9_1"
+        mc:Ignorable="d"
+        Title="Chọn sách" Height="550" Width="800">
+    <Grid>
+        <Label Width="250px" Margin="58,17,492,492" FontSize="14" Content="Danh sách"/>
+        <Label Width="250px" Margin="499,17,51,492" FontSize="14" Content="Sách đã chọn"/>
+        <ListBox x:Name="listBox1" Height="400px" Width="250px" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="36,0,0,0" FontSize="14" SelectedIndex="0" SelectionChanged="listBox1_SelectionChanged">
+            <ListBoxItem Margin="0,20,0,00" Content="Công nghệ thực tại ảo"/>
+            <ListBoxItem Content="Đảm bảo chất lượng phần mềm"/>
+            <ListBoxItem Content="Giải thuật di truyền và ứng dụng"/>
+            <ListBoxItem Content="Hệ chuyên gia"/>
+            <ListBoxItem Content="Lập trình căn bản"/>
+            <ListBoxItem Content="Lập trình hướng đối tượng"/>
+            <ListBoxItem Content="Lập trình mạng"/>
+            <ListBoxItem Content="Lập trình trên Windows"/>
+            <ListBoxItem Content="Một số phương pháp tính toán mềm"/>
+            <ListBoxItem Content="Nhập môn tin học"/>
+            <ListBoxItem Content="Phân tích thiết kế hệ thống"/>
+            <ListBoxItem Content="Phân tích và thống kê số liệu"/>
+            <ListBoxItem Content="Thiết kế cơ sở dữ liệu"/>
+            <ListBoxItem Content="Thiết kế trang web"/>
+            <ListBoxItem Content="Tin văn phòng"/>
+        </ListBox>
+        <ListBox x:Name="listBox2" Height="400px" Width="250px" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="499,0,0,0" FontSize="14" SelectedIndex="0" SelectionChanged="listBox2_SelectionChanged"/>
+        <Button x:Name="btn1" Content="&gt;" HorizontalAlignment="Center" Height="28" Margin="0,152,0,0" VerticalAlignment="Top" Width="94" FontSize="20" Click="btn1_Click"/>
+        <Button x:Name="btn2" Content="&gt;&gt;" HorizontalAlignment="Center" Height="28" Margin="0,206,0,0" VerticalAlignment="Top" Width="94" FontSize="20" Click="btn2_Click"/>
+        <Button x:Name="btn3" Content="&lt;&#xD;&#xA;" HorizontalAlignment="Center" Height="28" VerticalAlignment="Top" Width="94" FontSize="20" Click="btn3_Click" Margin="0,267,0,0"/>
+        <Button x:Name="btn4" Content="&lt;&lt;&#xD;&#xA;" HorizontalAlignment="Center" Height="28" VerticalAlignment="Top" Width="94" Margin="0,332,0,0" FontSize="20" Click="btn4_Click"/>
+    </Grid>
+</Window>
