@@ -1,0 +1,66 @@
+﻿<Window x:Class="DE02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DE02"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800"
+        FontFamily="Times New Roman"
+        FontSize="16px">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Foreground" Value="Blue"/>
+        </Style>
+        <Style TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="Button">
+            <Style.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="150"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Background" Value="Aqua"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Label Content="Mã sản phẩm" HorizontalAlignment="Left" Height="30" Margin="82,40,0,0" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Tên sản phẩm" HorizontalAlignment="Left" Height="30" Margin="82,80,0,0" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Đơn giá" HorizontalAlignment="Left" Height="30" Margin="82,120,0,0" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Số lượng bán" HorizontalAlignment="Left" Height="30" Margin="82,160,0,0" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Nhóm hàng" HorizontalAlignment="Left" Height="30" Margin="82,200,0,0" VerticalAlignment="Top" Width="142"/>
+        <TextBox Name="txtmasp" HorizontalAlignment="Left" Margin="257,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205"
+                 Text="{Binding SelectedItem.MaSp, ElementName=dgDSSP, Mode=OneWay}" Height="30"/>
+        <TextBox Name="txttensp" HorizontalAlignment="Left" Margin="257,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205"
+                 Text="{Binding SelectedItem.TenSanPham, ElementName=dgDSSP, Mode=OneWay}" Height="30"/>
+        <TextBox Name="txtdongia" HorizontalAlignment="Left" Margin="257,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205"
+                 Text="{Binding SelectedItem.DonGia, ElementName=dgDSSP, Mode=OneWay}" Height="30"/>
+        <TextBox Name="txtslban" HorizontalAlignment="Left" Margin="257,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205"
+                 Text="{Binding SelectedItem.SoLuongBan, ElementName=dgDSSP, Mode=OneWay}" Height="30"/>
+        <ComboBox Name="cbbNhomHang" HorizontalAlignment="Left" Margin="257,200,0,0" VerticalAlignment="Top" Width="205" SelectedIndex="0" Height="30"/>
+        <DataGrid Name="dgDSSP" AutoGenerateColumns="False" Margin="48,272,48,113" SelectionChanged="dgDSSP_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã sản phẩm" Width="100" Binding="{Binding MaSp}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Tên sản phẩm" Width="150" Binding="{Binding TenSanPham}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Đơn giá" Width="100" Binding="{Binding DonGia}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Số lượng bán" Width="100" Binding="{Binding SoLuongBan}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Nhóm hàng" Width="100" Binding="{Binding TenNhomHang}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Tiền bán" Width="120" Binding="{Binding TienBan, StringFormat='\{0:n0\}'}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="btnThem" Content="Thêm" HorizontalAlignment="Left" Margin="99,506,0,0" VerticalAlignment="Top" Width="99" Height="38" Click="btnThem_Click"/>
+        <Button Name="btnSua" Content="Sửa" HorizontalAlignment="Left" Margin="231,506,0,0" VerticalAlignment="Top" Width="99" Height="38" Click="btnSua_Click"/>
+        <Button Name="btnXoa" Content="Xóa" HorizontalAlignment="Left" Margin="359,506,0,0" VerticalAlignment="Top" Width="99" Height="38" Click="btnXoa_Click"/>
+        <Button Name="btnTim" Content="Tìm" HorizontalAlignment="Left" Margin="490,506,0,0" VerticalAlignment="Top" Width="99" Height="38" Click="btnTim_Click"/>
+        <Button Name="btnThongke" Content="Thống kê" HorizontalAlignment="Left" Margin="614,506,0,0" VerticalAlignment="Top" Width="99" Height="38" Click="btnThongke_Click"/>
+
+    </Grid>
+</Window>
